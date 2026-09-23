@@ -1,0 +1,23 @@
+1.) whoami: ubuntu
+2.) date: Wed Sep 23 23:22:23 UTC 2026
+3.) pwd: /home/ubuntu/DistributedComputing_C00507286
+4.) uptime:  23:22:47 up 5 days, 18:38,  1 user,  load average: 0.00, 0.00, 0.00
+5.) hostname: ip-172-31-37-119
+6.) id: uid=1000(ubuntu) gid=1000(ubuntu) groups=1000(ubuntu),4(adm),24(cdrom),27(sudo),30(dip),102(lxd)
+7.) which bash: /usr/bin/bash
+8.) echo "Keep going!": Keep going!
+9.) history 3:   100  echo "Keep going!" >> logs.txt
+                 101  nano logs.txt
+                 102  history 3 >> logs.txt
+10.) ls: logs.txt
+11.) mkdir TestFolder
+12.) cd TestFolder
+13.) touch Test.txt
+14.) cp Test.txt Test2.txt
+15.) mv Test.txt ..
+16.) rm Test2.txt
+17.) cd ..
+18.) rmdir TestFolder
+19.) rm Test.txt
+20.) head -n 1 logs.txt: 1.) whoami: ubuntu
+21.) tail -n 1 logs.txt: 1.) whoami: ubuntu
